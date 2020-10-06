@@ -7,7 +7,7 @@ package cse360assignment02;
  * Class: CSE 360
  * Date: 10/05/2020
  * Purpose: This program is designed for the students to get familiar with github repository.
- * 
+ * github Link: https://github.com/siavashmn/AddingMachineInitial.git
  */
 import java.util.*;
 public class AddingMachine {
